@@ -38,6 +38,8 @@ te dice el estatus de tus archivos con respecto al repo
 
 ## git status 
 
+## git log 
+
 4) confirmamos el archivo y lo subimos a gitHub
 
 comits
