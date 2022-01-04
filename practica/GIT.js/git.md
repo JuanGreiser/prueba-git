@@ -38,4 +38,5 @@ actualizar archivos del repo
 bajar archivos de un repo
 ## git clone "url"
 
-
+cambiar el nombre de la rama : 
+## git branch -m nombre
