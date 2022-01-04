@@ -34,6 +34,9 @@ Agregamos los archivos al repositorio local
 ## git status 
 ## git commit -m mensaje
 
+PUSH al repositorio en la nube;
+
+## git push origin master
 
 Ver los commits realizados
 ## git log 
