@@ -38,11 +38,11 @@ te dice el estatus de tus archivos con respecto al repo
 
 ## git status 
 
+ver los commits realizados;
 ## git log 
 
-4) confirmamos el archivo y lo subimos a gitHub
 
-comits
+4) confirmamos el archivo y lo subimos a gitHub
 
 
 ## git commit -m mensaje
