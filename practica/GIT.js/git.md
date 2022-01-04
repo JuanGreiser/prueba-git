@@ -27,22 +27,13 @@ enlazamos el repo LOCAL con repo en la NUBE
 verifica git remote -v
 
 
-3) Agregamos los archivos al repositorio local
-
-indicamos el o los archivos que queremos agregar 
-
+Agregamos los archivos al repositorio local
 ## git add .
 ## git add "nombre de un archivo"
 
-te dice el estatus de tus archivos con respecto al repo
-
 ## git status 
-
-ver los commits realizados;
-## git log 
-
-
-4) confirmamos el archivo y lo subimos a gitHub
-
-
 ## git commit -m mensaje
+
+
+Ver los commits realizados
+## git log 
