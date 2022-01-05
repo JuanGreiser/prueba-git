@@ -38,5 +38,15 @@ actualizar archivos del repo
 bajar archivos de un repo
 ## git clone "url"
 
-cambiar el nombre de la rama : 
-## git branch -m nombre
+
+
+COMO MODIFICAR LA RAMA, CREAR MAIN Y ELIMINAR MASTER
+## git branch -m master main
+## git branch 
+## git push -u origin main
+
+ir al repositorio y configurar main como la rama por defecto del repo
+## settings / branch / defailt branch - modificar update;
+
+eliminar rama 
+## it push origin --delete master
