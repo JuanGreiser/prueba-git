@@ -49,4 +49,4 @@ ir al repositorio y configurar main como la rama por defecto del repo
 ## settings / branch / defailt branch - modificar update;
 
 eliminar rama 
-## it push origin --delete master
+## git push origin --delete master
